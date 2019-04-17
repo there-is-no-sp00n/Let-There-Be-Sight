@@ -86,16 +86,6 @@ def manager():
 
 
 
-#def get_world_xyz(aligned_depth, profile, distance):
-    #do something
 
 
-
-
-
-#while(True):
 manager()
-
-#yolo()
-
-#realsense()
