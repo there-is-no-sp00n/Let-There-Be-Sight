@@ -2,7 +2,7 @@
 
 Requirements:
 
-Intel RealSense D400 series cameras.
+Intel RealSense D400 series camera.
 Nvidia GPU.
 YOLO v2.
 
@@ -18,4 +18,4 @@ Once the object is identified, the depth sensor on the Intel RealSense will be u
 
 The depth sensor is used to get A) the distance to the object and B) the XYZ coordinates of the object in the real world.
 
-All distance calculations for distance and XYZ coordinates are in reference to where the Intel RealSense is located.
+All calculations for distance and XYZ coordinates are in reference to where the Intel RealSense is located.
