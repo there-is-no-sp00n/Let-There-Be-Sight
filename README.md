@@ -6,8 +6,7 @@ Intel RealSense D400 series cameras.
 Nvidia GPU
 YOLO v2
 
-\n
-\n
+
 
 Brief Explanation:
 
