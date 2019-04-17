@@ -3,8 +3,8 @@
 Requirements:
 
 Intel RealSense D400 series cameras.
-Nvidia GPU
-YOLO v2
+Nvidia GPU.
+YOLO v2.
 
 
 
