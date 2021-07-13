@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 import cv2
 import numpy as np
 import time
@@ -62,3 +69,10 @@ def yolo(capture, tfnet):
 
     capture.release()
     cv2.destroyAllWindows()
+    
+    
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
