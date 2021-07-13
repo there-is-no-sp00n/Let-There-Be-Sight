@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 import numpy as np
 import time
 import pyrealsense2 as rs
@@ -79,3 +86,10 @@ def realsense(depth, profile, frames, align):
     time.sleep(0.5)
 
     return 0
+
+
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
