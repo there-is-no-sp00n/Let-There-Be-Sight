@@ -1,4 +1,4 @@
-# Let-There-Be-Sight
+# Let There Be Sight
 
 Requirements:
 
