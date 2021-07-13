@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 import cv2
 from darkflow.net.build import TFNet
 import numpy as np
@@ -89,3 +96,10 @@ def manager():
 
 
 manager()
+
+
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
